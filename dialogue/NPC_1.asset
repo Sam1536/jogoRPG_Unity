@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c10bd18d05e184191f8084783b595f, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 6385372661347100967, guid: 6df4b80209ef49a4b91780c845407233, type: 3}
+  SpeakerSprite: {fileID: 723819102, guid: 02e92e9c67a2adc41955ec075c447c57, type: 3}
+  sentence: Ola Mundo
+  dialogues:
+  - actorName: Natari Mamaco
+    profile: {fileID: 450823955, guid: 02e92e9c67a2adc41955ec075c447c57, type: 3}
+    Sentence:
+      portuguese: "Ol\xE1, tetas"
+      english: Hello, how are you outsider?
+      spanish: "Hola, \xBFc\xF3mo est\xE1s forastero?"
+  - actorName: Natari Mamaco
+    profile: {fileID: 450823955, guid: 02e92e9c67a2adc41955ec075c447c57, type: 3}
+    Sentence:
+      portuguese: "vc gosta de pa\xE7ocA"
+      english: how are you?
+      spanish: "c\xF3mo est\xE1s?"
