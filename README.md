@@ -22,7 +22,7 @@
  </div>
 
 
-# FALA COM NPC 🧔
+# INTERAÇÃO COM NPC 🧔
 
 <div align="center">
 <img max-width="500" src= "https://user-images.githubusercontent.com/89424721/236953436-a39f178f-dec3-4a77-8774-7cc11fa2954a.gif" />
